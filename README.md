@@ -1,6 +1,6 @@
 # Sage's Handbook - A Touhou Adaptation of the D&D 5E PHB
 
-The Touhou Project is a vast and intricate universe. For anyone attempting to create a story that "makes sense" within this expansive world, it requires a great deal of study and effort to understand its depth and nuances.
+The Touhou Project is a vast and intricate universe. For anyone attempting to create a story that "makes sense" within this expansive world will requires a significant amount of study and effort to understand its depth and nuances.
 
 When it comes to role-playing, Dungeons & Dragons (D&D) provides a robust system for structuring narratives, offering clear rules to guide story progression and interactions. This makes it easier for players to immerse themselves in an adventure while following consistent guidelines.
 
