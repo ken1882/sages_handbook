@@ -87,9 +87,9 @@ Yukari flings Ran or Chen up to 60 ft., allowing them to immediately make a mult
 
 ### **Legendary Actions**
 Yukari can take **3** legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's round. Yukari regains spent legendary actions at the start of her round.
-    - ***Move:*** Yukari moves up to her speed without provoking opportunity attacks.
-    - ***Manipulate Boundaries (Cost 2 Actions):*** Yukari shifts the boundaries of reality, teleporting herself or one willing creature within 120 ft. to another point within 120 ft. This does not provoke opportunity attacks.
-    - ***Redirect Attack:*** Yukari redirects an attack targeting any creature she can see within 60 ft. to another creature within range of the original attack.
+- ***Move:*** Yukari moves up to her speed without provoking opportunity attacks.
+- ***Manipulate Boundaries (Cost 2 Actions):*** Yukari shifts the boundaries of reality, teleporting herself or one willing creature within 120 ft. to another point within 120 ft. This does not provoke opportunity attacks.
+- ***Redirect Attack:*** Yukari redirects an attack targeting any creature she can see within 60 ft. to another creature within range of the original attack.
 
 
 ### Spellcasting
@@ -132,7 +132,7 @@ You can dismiss spell trap as a bonus action.
 #### Dweomerdoom
 *10th level Abjuration*
 
-**Casting Time:**1 reaction, when you see a spell being cast
+**Casting Time:** 1 reaction, when you see a spell being cast
 
 **Range:** Within sight
 
@@ -174,10 +174,10 @@ The spell effect persists even the caster leaves the area, leaving the place com
 
 **Components:** V, S
 
-**Duration:** 1 minute
+**Duration:** See text
 
 You manipulates the boundary between life and death. Causing one effect of your choosing:
-1. Targeting up to 5 creatures within 100 ft. and forces target to make a Constitution saving throw. On a failed save, the creature is shifted to the boundary of life and death, becoming unable to heal or be resurrected for the duration. Any healing effects applied to the creature fail. At the end of each of its round, the creature takes 8d12 necrotic damage. If the creature is reduced to 0 hit points while affected by this spell, it cannot be revived by any means short of a Wish spell.
+1. Targeting up to 5 creatures within 100 ft. and forces target to make a Constitution saving throw. On a failed save, the creature is shifted to the boundary of life and death, becoming unable to heal or be resurrected for the duration of 1 minute. Any healing effects applied to the creature fail. At the end of each of its round, the creature takes 8d12 necrotic damage. If the creature is reduced to 0 hit points while affected by this spell, it cannot be revived by any means short of a Wish spell.
 2. Reversing the life of a fallen creature. As long as the target's demise is within 3 days, you can cast this spell to undo its death, returning it to the moment before it was killed, fully restored to life with all hit points. The creature’s death and any associated events are erased from time, as if they never occurred. After choosing this effect, Yukari cannot use this spell again for 7 days.
 
 #### Boundary of Space and Time
@@ -243,10 +243,10 @@ While casting this spell, you're completely immune to its effects.
 **Duration:** See text
 
 You briefly rewrites the rules of reality in your immediate vicinity. You alter the fundamental laws of physics and magic inside your plane of existence. You can choose up to three effects, such as:
-    - Gravity is reversed, allowing creatures to walk on walls or ceilings.
-    - Magic becomes unstable, causing all spells cast within the area to require a DC 20 spellcasting check or fail.
-    - Time flows differently, slowing or hastening creatures’ actions.
-    - Healing effects are reversed, causing healing magic to deal damage instead.
+- Gravity is reversed, allowing creatures to walk on walls or ceilings.
+- Magic becomes unstable, causing all spells cast within the area to require a DC 20 spellcasting check or fail.
+- Time flows differently, slowing or hastening creatures’ actions.
+- Healing effects are reversed, causing healing magic to deal damage instead.
 You can specify the area and duration for the effects, greater area and longer duration requires longer casting time according to the following table, multiply the time required to the effects will be the final casting time:
 
 | Dur./AOE | ~100ft. | 101~500 ft. | 501~1000 ft. | 1000~3000 ft. | Current Plane |
