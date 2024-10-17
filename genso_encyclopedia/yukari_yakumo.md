@@ -124,7 +124,7 @@ You create a barrier of magical protection around yourself. Every spell directly
 
 Spell trap absorbs a total of 1 spell level per your caster level, before ending. The protection spell trap provides is absolute: having 1 level remaining of this protection means a 1st level or a 9th level spell is be absorbed, though the spell slot you regain matches only the spell levels remaining of spell trap.
 
-Mordenkainen/Mage's Disjunction may end this spell, if you are within that spell’s area and its caster succeeds on the spell check. Each turn you are within the area of effect of Disjunction, its caster can attempt the spell check on its turn.
+Mordenkainen/Mage's Disjunction may end this spell, if you are within that spell's area and its caster succeeds on the spell check. Each turn you are within the area of effect of Disjunction, its caster can attempt the spell check on its turn.
 
 You can dismiss spell trap as a bonus action.
 
@@ -177,8 +177,8 @@ The spell effect persists even the caster leaves the area, leaving the place com
 **Duration:** See text
 
 You manipulates the boundary between life and death. Causing one effect of your choosing:
-1. Targeting up to 5 creatures within 100 ft. and forces target to make a Constitution saving throw. On a failed save, the creature is shifted to the boundary of life and death, becoming unable to heal or be resurrected for the duration of 1 minute. Any healing effects applied to the creature fail. At the end of each of its round, the creature takes 8d12 necrotic damage. If the creature is reduced to 0 hit points while affected by this spell, it cannot be revived by any means short of a Wish spell.
-2. Reversing the life of a fallen creature. As long as the target's demise is within 3 days, you can cast this spell to undo its death, returning it to the moment before it was killed, fully restored to life with all hit points. The creature’s death and any associated events are erased from time, as if they never occurred. After choosing this effect, Yukari cannot use this spell again for 7 days.
+1. Targeting up to 5 creatures within 100 ft. and forces target to make a Constitution saving throw. On a failed save, the creature is shifted to the boundary of death, becoming unable to heal or be resurrected for the duration of 1 minute. Any healing effects applied to the creature fail. At the end of each of its round, the creature takes 8d12 necrotic damage. If the creature is reduced to 0 hit points while affected by this spell, it cannot be revived by any means short of a Wish spell.
+2. You shift the boundary of life, reversing the soul of a fallen creature back to its body. As long as the target's demise is within 3 days, you can cast this spell to undo its death, returning it to the moment before it was killed, fully restored to life with all hit points. The creature's death and any associated events, such as disease or curse, are erased from time, as if they never occurred. After choosing this effect, you cannot use this spell again for 7 days.
 
 #### Boundary of Space and Time
 *11th level Conjuration*
@@ -187,13 +187,27 @@ You manipulates the boundary between life and death. Causing one effect of your 
 
 **Range:** within sight
 
-**Components:** V, S, M (a magical labyrinthine map crafted with materials at least worth total of 1,000,000 gp)
+**Components:** V, S, M (a magical landscape map crafted from rare materials, see text)
 
 **Duration:** Until dispelled
 
-You opens a gap into an infinite labyrinth, a spatial loop that traps creatures within an endless pathway. All creatures within maximum of 1-mile radius are teleported into this dimension unless they succeed on an Wisdom saving throw. While inside, creatures can only move through a series of hallways that repeat endlessly, and time seems to flow differently. For each hour that passes inside the labyrinth, only 1 minute passes outside. Creatures inside the labyrinth are trapped indefinitely, Divination spells can’t locate or perceive the target. Nothing can pass through the boundary, nor can any creature teleport or use planar travel to get into or out of it. To leave the labyrinth, a dispel magic spell can save the victim only if it is cast as a 9th-level spell (or higher), targeting a creature inside and close (25 ft. + 5 ft. per 2 caster level) to the special component used to create it. Or the caster cast the spell with same component again opening the boundary.
-If the component is destroyed or dispelled by the Disjunction, all creatures inside immediately free from the labyrinth.
+You opens a gap into the magical map that have drawn, a plane of existence that reflects the boundaries of the world within the artist's creation. This map can take the form of a sprawling city, uncanny landscapes, dangerous labyrinth, or any other scenery one can imagine. All creatures within maximum of 1-mile radius are teleported into this dimension unless they succeed on an Wisdom saving throw. While inside, creatures can only move in this domain, a reflection of the creator's will existing as a pocket dimension, isolated from the rest of the multiverse, and time seems to flow differently, for each hour that passes inside, only 1 minute passes outside. Creatures within are trapped indefinitely, Divination spells can't locate or perceive the target. Nothing can pass through the boundary, nor can any creature teleport or use planar travel to get into or out of it. To leave the dimension, a dispel magic spell can save the victim only if it is cast as a 9th-level spell, targeting a creature inside and close to (25 ft. + 5 ft. per 2 caster level) the special component used to create it. Or the caster cast the spell with same component again opening the boundary.
+If the component is destroyed or dispelled by the Disjunction, all creatures inside immediately free from the dimension.
 
+To craft the component, following materials from various location must be used:
+- 1 pound of high quality sand without impurities.
+- 10 pounds of imperial jade from Youkai Mountain and filled with beasts spiritual power.
+- 3 vials (6 ounces) of sacred water blessed by a miko with unparalleled exorcism power, each vial is capable of dealing no less than 99 hit points of radiant damage on average roll when applied to evil being. (for instance, average roll of 10d18 is (1+10)/2*18=99)
+- 50 feet of silk thread imbued with the essence of the moon and longevity.
+- 5 pounds of infernal bloodstone formed by agglomerate the residue from boiling the bloods of evils repetitively.
+- 1 stellar feather of Yatagarasu.
+- 80 pounds of keystone.
+- 10 plants of Untainted Lotus.
+- 4 gallons of underground water from Forest of Magic.
+- 8 pounds of cotton, grew in Garden of the Sun and fertilized with bonemeal made from creatures has average DC above 10.
+- Crafting process *pages after are torn down*
+
+\page
 
 #### Boundary Collapse
 *12th level Evocation*
@@ -210,8 +224,6 @@ You collapses the boundaries between dimensions, creating a singularity black ho
 
 Once the singularity is created, all creatures and objects within its radius are affected by its gravitational pull. Creatures must make progressively harder saving throws the closer they are to the singularity, listed as follows:
 
-\page
-
 - ***Within 100 ft.:***
 All creatures and objects within 100 feet must make a DC 30 Strength saving throw at the start of each of their round or be pulled 50 feet toward the center and take 20d12 force damage. On a success, they are not pulled but still take half damage. If pulled into the center, they are instantly crushed and reducing to atoms, cannot be resurrected without divine intervention. All movement speed are reduced to one tenth, teleportation unconditionally fails.
 
@@ -221,10 +233,10 @@ All creatures and objects must make a DC 25 Strength saving throw at the start o
 - ***301-500 ft.:***
 All creatures and objects must make a DC 20 Strength saving throw at the start of each of their rounds or be pulled 20 feet toward the center and take 5d12 force damage. On a success, they are not pulled but still take half damage. Teleportation attempts must make a DC 25 Constitution check to proceed.
 
-- ***501-1000 ft. away:***
+- ***501-1000 ft.:***
 All creatures and objects must make a DC 15 Strength saving throw at the start of each of their rounds or be pulled 10 feet toward the center, they are not pulled on a success.
 
-After each round, the black hole's pull grows stronger, expands the size of affected area by 10 feet (starting at 1 ft.), creatures within 500 feet must make another DC 20 Wisdom saving throw every round or suffer from space-time distortion, causing them to be randomly displaced by 2d10 feet in any direction and experiencing time dilation, losing their action for the round.
+After each round, the black hole's pull grows stronger, expands the size of affected area by 100 feet (starting at 1 ft.) and reaches maximum radius of 1000 feet after 10 rounds, creatures within 500 feet must make another DC 20 Wisdom saving throw every round or suffer from space-time distortion, causing them to be randomly displaced by 2d10 feet in any direction and experiencing time dilation, losing their action for the round.
 
 You can end the spell at will, causing the singularity to collapse into nothingness. However, if the singularity is allowed to remain for the full duration, it may become unstable and expand uncontrollably, leading to catastrophic consequences.
 
@@ -243,11 +255,15 @@ While casting this spell, you're completely immune to its effects.
 **Duration:** See text
 
 You briefly rewrites the rules of reality in your immediate vicinity. You alter the fundamental laws of physics and magic inside your plane of existence. You can choose up to three effects, such as:
+
 - Gravity is reversed, allowing creatures to walk on walls or ceilings.
 - Magic becomes unstable, causing all spells cast within the area to require a DC 20 spellcasting check or fail.
-- Time flows differently, slowing or hastening creatures’ actions.
+- Time flows differently, slowing or hastening creatures' actions.
 - Healing effects are reversed, causing healing magic to deal damage instead.
-You can specify the area and duration for the effects, greater area and longer duration requires longer casting time according to the following table, multiply the time required to the effects will be the final casting time:
+- Blur the boundaries between planes, allowing creatures to be partially in one plane and another, causing unpredictable effects.
+- Objects and creatures in the area may randomly teleport short distances, making movement unreliable.
+
+You can specify the area and duration for the effects, greater area and longer duration requires longer casting time according to the following table, multiply the time required to the number of effects will be the final casting time:
 
 | Dur./AOE | ~100ft. | 101~500 ft. | 501~1000 ft. | 1000~3000 ft. | Current Plane |
 | -------- | ------- | ----------- | ------------ | ------------- | ------------- |
@@ -262,28 +278,35 @@ Once upon the ritual starts, deities related to the rules you written immediatel
 
 \page
 
+## Danmaku Battle
+*Describe character's damanku pattern, attacks, attributes etc.*
+
+### Spell Cards
+*List of spell cards character can use, and details*
+
+\page
+
 > ### Roleplaying Notes
-> - **Personality Traits:** *Brief notes on the character's personality.*
-> - **Ideals:** *What drives the character?*
-> - **Bonds:** *Connections to other characters, places, or events.*
-> - **Flaws:** *Character weaknesses or vulnerabilities.*
+> - **Personality Traits:** Yukari Yakumo is enigmatic and whimsical, often appearing aloof or detached. She enjoys teasing and manipulating others for her own amusement, but beneath her playful exterior lies a keen intellect and deep wisdom. She is highly observant, strategic, and has a penchant for meddling in events from the shadows.
+> - **Ideals:** Yukari is driven by the desire to maintain balance and stability within Gensokyo. She values the preservation of boundaries between realms, concepts, and even life and death. Her actions are often guided by a long-term vision for the well-being of Gensokyo, even if her methods seem inscrutable to others.
+> - **Bonds:** She shares a close bond with her shikigami, Ran Yakumo. Through Ran, she is also connected to Chen, Ran's own shikigami. Yukari has complex relationships with other powerful beings in Gensokyo, such as Yuyuko Saigyouji and Miko of Hakurei.
+> - **Flaws:** Her enigmatic nature can lead to misunderstandings, causing others to distrust her motives. Yukari's tendency to manipulate situations without informing those involved can create unintended consequences. Also, since she spents most of her time sleeping, her source of information and errands relies heavily on her shikigami.
 
 
 ### Tactics
-Description of how the character behaves in combat, including preferred strategies, common tactics, and any special considerations.
-
+In combat, Yukari rarely engages directly unless necessary. She prefers to manipulate the battlefield using her mastery over boundaries, or summon her shikigami fight for her. If a direct conflict is inevitable, she'll propose a Danmaku duel rather than bloodshed. In any case she needs to demonstrate her power, Yukari approaches combat with a calm demeanor, always appearing one step ahead. She views battles as a game of chess, strategically positioning herself and others to achieve victory with minimal effort.
 
 > ## Lore
-> *"A notable quote from the character that exemplifies their personality or role."*
+> Yukari Yakumo, despite often claiming she's age 17, is one of the oldest and most powerful youkai in Gensokyo, known as the Gap Youkai. She possesses the ability to manipulate boundaries, but this ability is rarely seen used other than for opening gaps to teleport around Gensokyo and fixing the barrier. Still, this mysterious power and her extraordinary wisdom make her a key figure in maintaining the balance and isolation of Gensokyo from the outside world.
 > <br>
+> Yukari played a crucial role in the creation of the Great Hakurei Barrier, which separates Gensokyo from the outside world. This event is often seen as the origin of Gensokyo, and those involved are called the Sages of Gensokyo. She often spends long periods sleeping, leaving the management of day-to-day affairs to her shikigami, Ran. Despite her apparent laziness, she is highly influential and keeps a watchful eye on the incidents that could threaten the stability of Gensokyo.
 > <br>
-> Additional background information, stories, or myths associated with the character. This can include relationships with other characters, significant events they've been involved in, and their place within Gensokyo.
+> She enjoys mentoring and challenging younger youkai and humans alike, sometimes acting as an antagonist to spur growth in others. Yukari's true intentions are rarely clear, and she often operates behind the scenes, nudging events in directions that serve her inscrutable purposes.
+> <br>
+> Her interactions with other characters are complex. Two of her most notable backstories are that she seems to know the secret of the Saigyou Ayakashi and Yuyuko Saigyouji, and that she started two Lunar Wars against the Lunarians. But her true intentions perhaps only lie in the deepest parts of the gap that is accessible only by Yukari herself.
 
 ### **Adventure Hooks**
-- Ideas on how this character could be integrated into a campaign or adventure.
-
+In a campaign or adventure, she is very likely the mastermind behind the scenes, manipulating the progression of events. Unless you're replaying the second Lunar War, which she goes on the expedition herself, which is very rare and perhaps the only one she risks herself to win the game.
 
 > ##### Author's Notes
-> Any additional notes from the author or compiler of the bestiary entry, such as design considerations or references.
-
-
+> Yukari Yakumo is arguably one of the most complex characters in the Touhou Project. Her mysterious nature often leads to varying interpretations; feel free to modify any aspects to suit your playthrough. The sections about her backstory with Yuyuko Saigyouji and the Lunar War are kept spoiler-free. These stories are detailed in ***Perfect Cherry Blossom*** and ***Silent Sinner in Blue***, respectively. It is highly recommended that you read them yourself for a deeper understanding.
