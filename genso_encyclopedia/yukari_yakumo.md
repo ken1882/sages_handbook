@@ -7,6 +7,7 @@ Yukari Yakumo is a legendary youkai who is able to manipulate boundaries. She is
 - **Armor Class** 27
 - **Hit Points** 1,020 (20d100+200)
 - **Speed:** 25 ft. land, 30 ft. flying (hover)
+- **Proficiency:** +10
 
 ### Ability Scores
 <br><br>
@@ -34,7 +35,7 @@ ___
 - **Damage Resistances**
     - All
 - **Damage Immunities**
-    - Bludgeoning, piercing and slashing damage from nonmagical weapons
+    - Non-magical bludgeoning, piercing and slashing damage
     - Force
     - Necrotic
     - Poison
@@ -54,36 +55,38 @@ ___
 
 ### Traits
 
-***Bounded Field:***
+- ***Bounded Field:***
 As a bonus action, Yukari creates a 120 ft. cube. This cube lasts until she is reduced to 0 hit points or she dismisses it. Creatures inside cannot pass through its boundaries, and teleportation or planar travel redirects the creature to the closest edge of the cube. Yukari can allow creatures to pass through the boundary at her discretion. She can use this ability 5 times before a long rest.
 
-***Eyes of Laplace:***
+- ***Eyes of Laplace:***
 Yukari may take up to 3 reactions per round instead of 1. She can never be surprised.
 
-***Necrofantasia:***
+- ***Necrofantasia:***
 Yukari is immune to spells and effects that only target living creatures, as well as those that only affect dead or undead creatures. She cannot die by any means short of the destruction of the multiverse.
 
-***No Sell:***
+- ***No Sell:***
 Yukari is immune to the effects of spells cast at 9th level or below, unless she chooses otherwise.
 
-***Legendary Resistance (5/day):***
+- ***Legendary Resistance (5/day):***
 Whenever Yukari fails a saving throw, she can choose to succeed instead.
 
-***Redirection:***
+- ***Redirection:***
 When an attack roll or Dexterity saving throw is made against a creature that Yukari is aware of, she can use a reaction to reroll. She may do this after the outcome of the original roll is known.
 
-***Youkai of Boundaries:***
+- ***Youkai of Boundaries:***
 Yukari is aware whenever a creature enters or leaves her current plane of existence.
 
 \page
 
 ### Actions
 
-***Abandoned Line - Murder Train***
+- ***Abandoned Line - Murder Train***
 Yukari opens a gap 5 ft. far from a chosen target, an outside world vehicle drive rapidly towards the victim, dealing 10d10 force damage and must making a DC 20 Strength saving throw or be knocked prone. Additionally, if the target is a humanoid, they must succeed on another DC 26 Wisdom saving throw or be frightened for 2 rounds. This attack has +16 to hit and the target must within 120 ft. of her.
 
-***Great Spinning Attack:***
+- ***Great Spinning Attack:***
 Yukari flings Ran or Chen up to 60 ft., allowing them to immediately make a multiattack.
+
+- ***Empower Shikigami:*** All shikigamis serving Yukari within 120 ft. of her have their own *Shikigami Possession* feature activated, if any. The effect lasts for 1 hour or until Yukari dismisses it (no action required).
 
 ### **Legendary Actions**
 Yukari can take **3** legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's round. Yukari regains spent legendary actions at the start of her round.
