@@ -4,7 +4,7 @@ In addition to the already mythical magical power of a nine-tailed fox, she is f
 She possesses a brilliant mind, which she often turns to such things as mathematics and its applications. As Yukari spends much time sleeping, Ran has much spare time with which to unravel the mysteries of the world.
 She is completely subservient to Yukari, taking care of most of her duties and acting in her stead while she hibernates. She can be found anywhere that her duties take her. She's typically a reasonable and peaceful person, unless it comes to protecting Yukari or Chen.
 
-### Character Name
+### Ran Yakumo
 *Medium beast (Fox beast youkai), lawful good*
 
 - **Armor Class** 24
@@ -75,7 +75,7 @@ ___
 
 - ***Kingdom-Toppling Presence:***
 The legendary nine-tailed foxes are known for their enchanting beauty and cunning intelligence, capable of influencing creatures and altering the fate of nations. Ran embodies this myth, possessing an allure and persuasive power that can sway the hearts and minds of others on a grand scale. As an action, she can choose one effect from below:
-    - ***Alluring Aura:*** Ran exudes an enchanting aura that captivates those around her. Gaining advantage on all Charisma checks when interacting with creatures. Male humanoids within 15 ft. must take a Wisdom saving throw (DC=8 + her proficiency bonus + her Charisma modifier) or be charmed immediately for an hour. Charmed creature may make a Wisdom saving throw once every minute and whenever you deal damage to it. On a success, the charm effect ends. Ran can use this ability 5 times before a long rest.
+    - ***Alluring Aura:*** Ran exudes an enchanting aura that captivates those around her. Gaining advantage on all Charisma checks when interacting with creatures. Male humanoids within 15 ft. must take a Wisdom saving throw (DC=8 + her proficiency bonus + her Charisma modifier) or be charmed immediately for an hour. Charmed creature may make a Wisdom saving throw once every minute to end the charm effect. Ran can use this ability 5 times before a long rest.
     - ***Charm of the Nine Tails:*** Ran can employ her mystical charm to bend others to her will. The effect is equivalent to a mass suggestion spell casted at 7th-level but without expending a spell slot or requiring components. The spell save DC is 8 + her proficiency bonus + her Charisma modifier. Targets charmed by this ability are unaware they were charmed after the effect ends. She regains the ability to
     use this feature in this way after finishing a short or long rest.
     - ***Enchanting Majesty:*** The sheer force of Ran's presence can overwhelm the senses of those who oppose her. She forces all creatures of her choice within a 60-foot radius who can sense her presence to make a Wisdom saving throw against her spell save DC, or becomes charmed or frightened (Ran's choice) for 1 minute. Target may reroll the save at the end of each of its rounds, ending the effect on a success. She can use this feature three times, regaining all uses after a long rest.
@@ -87,90 +87,87 @@ As powerful as Ran is, she is ultimately subservient to a more powerful master, 
 
 ### Actions
 
-***Claw:*** Melee weapon attack. +11 to hit, 2d8+5 slashing damage, 3d6 fire damage.
+- ***Claw:*** Melee weapon attack. +11 to hit, 2d8+5 slashing damage, 3d6 fire damage.
 
-***Shikigami - Chen:*** Ran summons Chen to a point within 120 ft. of herself. She may then have Chen be immediately empowered and activate her *Shikigami Possession* feature.
+- ***Shikigami - Chen:*** Ran summons Chen to a point within 120 ft. of herself. She may then have Chen be immediately empowered and activate her *Shikigami Possession* feature.
 
-***Shikigami - Protection of Zenki and Goki:*** May only be used when empowered by Yukari activating her Shikigami Possession feature. Ran summons Zenki and Goki, Yukari's familiars, to a point within 60 ft. of herself.
+- ***Empower Chen:*** If Chen is within 120 ft. of Ran, Ran may empower Chen and activating Chen's *Shikigami Possession* feature.
 
-***Empower Chen:*** If Chen is within 120 ft. of Ran, Ran may empower Chen and activating Chen's *Shikigami Possession* feature.
+- ***Shikigami - Protection of Zenki and Goki:*** May only be used when empowered by Yukari activating her Shikigami Possession feature. Ran summons Zenki and Goki, Yukari's familiars, to a point within 60 ft. of herself. They only exists when Ran is empowered, and can only be summoned once per day.
+> ***Zenki / Goki***<br>
+> *Large fiend (Oni), chaotic evil*
+> <br><br>
+> Zenki and Goki are two of Yukari's servants, a pair of Oni who Yukari often keeps in the form of crows. Both have the same statistics.
+> - ***AC:*** 17
+> - ***HP:*** 215
+> - ***Speed:*** 30 ft., 30 ft. flying (hover)
+> - STR 22 (+6) DEX 15 (+2) CON 19 (+4)
+> INT 7 (-2) WIS 9 (-1) CHA 13 (+1)
+> - ***Saving Throws:*** Strength +10, Constitution +8
+> - ***Skills:*** Athletics +10, Intimidation +5
+> - ***Damage Resistances:*** Fire
+> - ***Damage Immunities:*** Non-magical slashing, piercing and bludgeoning
+> - ***Condition Immunities:*** Exhausted, frightened, stunned
+> - ***Languages:*** Common, Youkai, Oni
+> - ***Challenge:*** 10 (5,900 XP)
+> - ***Features:***
+>   - ***Brute Strength:*** They have advantage on Strength ability checks. Their attacks are also considered to be dealing magical damage for the purpose of overcoming resistances and immunities.
+>   - ***Minor Magic Immunity:*** They may choose to remain unaffected by spells of 3rd level or below.
+> - ***Actions:***
+>   - ***Multiattack:*** It makes two cleaver attacks and one punch attack.
+>   - ***Cleaver:*** Melee weapon attack. +10 to hit, 3d8+6 slashing damage.
+>   - ***Punch:*** Melee weapon attack. +10 to hit, 2d8+7 bludgeoning damage.
+
+\page
 
 ### **Legendary Actions**
 Ran Yakumo can take **9** legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn.
 - ***Nine-Tailed Sorcery***: Ran casts a spell of up to 9 level that has a casting time of 1 action as if casting in her round, spending the legendary action that equivalent to the spell level. For example, casting a fireball costs 3 legendary actions.
 - ***Tail Bind:*** Ran uses her magical tails to bind a creature she can see within 60 feet. She can spend 1 or more legendary actions up to 4 to perform this action. For each legendary action spent, she uses an additional tail to strengthen the binding. The target must make a Strength saving throw against a DC of 8 + Ran's proficiency bonus + number of tails used. On a failed save, the target becomes grappled and restrained by Ran's tails. While restrained, the target takes 1d8 bludgeoning damage for each tail involved at the start of its round. To maintaining the bind, Ran's maximum legendary actions per round are reduced by the number of tails used, she regains these actions when the bind ends. She may change number of tails used to bind the target at start of her round (no action cost), the DC and damage are changed align with number of tails using. The restrained creature can use its action to attempt breaking free by repeating the saving throw. She can use this action on one creature at a time.
-- ***Tail Wallop:*** Ran makes a melee weapon attack using one of her tails against a target within 15 feet. She can spend additional legendary actions to strengthen the attack. This melee attack has +16 to hit and 1d10 + 6 bludgeoning damage, she can use additional tails with maximum of 5 to increasing the damage by 1d10 per each up to 5d10+6, and the target must succeed on a Strength saving throw with DC 16 + number of tails used (up to 21), or be knocked prone.
+- ***Tail Wallop:*** Ran makes a melee weapon attack using one of her tails against a target within 15 feet. She can spend additional legendary actions to strengthen the attack. This melee attack has +16 to hit and 1d10 + 6 bludgeoning damage, she can use additional tails by spending extra legendary actions with maximum of 5 to increasing the damage by 1d10 per each up to 5d10+6, and the target must succeed on a Strength saving throw with DC 16 + number of tails used (up to 21), or be knocked prone.
 - ***Tail Shield:*** Ran wraps her tails around herself or an ally within 5 feet, granting a +1 bonus to AC for each legendary action spent up to 5 until the start of her next turn. This action can be used only once per round.
 
-\page
-
 ### Spellcasting
-[Character Name]'s spellcasting ability is **Intelligence (spell save DC XX, +X to hit with spell attacks)**, with the following spells prepared:
+As a nine-tailed fox, Ran possesses extreme magical power, further reinforced by her Shikigami bond, allowing her to control magic as she pleases. Ran knows all spells. She has a spell attack modifier of +18, and a spell save DC of 26.
 
-- **Cantrips: (infinite use)**
-    - Prestidigitation
-    - Mage Hand
-- **1st level (4 slots):**
-    - Magic Missile
-    - Shield
-- **2nd level (3 slots):**
-    - Mirror Image
-    - Acid Arrow
-- **3nd level (3 slots):**
-    - Fireball
-    - Haste
-- **4nd level (3 slots):**
-    - Stoneskin
-    - Dimension Door
-- **5nd level (3 slots):**
-    - Mislead
-    - Cone of Cold
-- **6nd level (2 slots):**
-    - Chain lightning
-    - Globe of Invulnerability
-- **7nd level (2 slots):**
-    - Teleport
-    - Delayed Blast Fireball
-- **8nd level (1 slots):**
-    - Maze
-    - Feeblemind
+She may cast spells of 5th level and below at will, as if using up to a 5th level spell slot.
+
+For higher level spells, she has the following number of spell slots:
+
+- **6nd level (3 slots):**
+- **7nd level (3 slots):**
+- **8nd level (2 slots):**
 - **9nd level (1 slots):**
-    - Wish
-    - Power Word Kill
-- **Epic level (1 slots):**
-    - Hellball
-    - Dragon Knight
 
-
-### Equipment
-
-- **Item Name.** *Description of the item and its effects.*
-    - ***Item Features.*** If any
-
-\page
 
 > ### Roleplaying Notes
-> - **Personality Traits:** *Brief notes on the character's personality.*
-> - **Ideals:** *What drives the character?*
-> - **Bonds:** *Connections to other characters, places, or events.*
-> - **Flaws:** *Character weaknesses or vulnerabilities.*
-
+> - **Personality Traits:** Ran Yakumo is diligent and highly intelligent, often appearing serious and composed. She values efficiency and order, diligently performing her duties as Yukari Yakumo's shikigami. Ran is polite and respectful, especially towards her master and those she deems worthy of respect. Despite her stern exterior, she cares deeply for her own shikigami, Chen, and can show a nurturing side.
+> - **Ideals:** Ran is driven by loyalty and a strong sense of responsibility. She believes in fulfilling her duties to the best of her ability and upholding the balance and harmony of Gensokyo.
+> - **Bonds:** Her primary bond is with Yukari Yakumo, whom she serves faithfully. Ran also shares a maternal relationship with her own shikigami, Chen, guiding and protecting her. She interacts with other youkai and humans as part of her responsibilities, forming connections based on mutual respect and duty.
+> - **Flaws:** Ran can be overly serious and may neglect her own well-being in the pursuit of her duties. Additionally, she sometimes forgets her position as a servant and acts on her own volition, which may lead to consequences Yukari does not expect.
 
 ### Tactics
-Description of how the character behaves in combat, including preferred strategies, common tactics, and any special considerations.
+While Ran prefers to resolve conflicts without violence, it's a different story if someone insists on interfering with her duties. In combat, Ran Yakumo utilizes her vast magical abilities and intelligence to outmaneuver opponents. She analyzes her enemies and exploits their weaknesses, often starting with spells that hinder or control the battlefield. With her nine-tailed casting ability and wide array of spells she knows, she can handle any foe encountered with flexible tactics. When working alongside other teammates, Ran coordinates attacks and covers each other's weaknesses. She can empower her allies or debilitate enemies to shift the battle in her favor. Based on the flow of combat, she may retreat or reposition to avoid unnecessary risks, preferring calculated actions over impulsive moves.
 
+\page
+
+## Danmaku Battle
+*Describe character's damanku pattern, attacks, attributes etc.*
+
+### Spell Cards
+*List of spell cards character can use, and details*
+
+\page
 
 > ## Lore
-> *"A notable quote from the character that exemplifies their personality or role."*
-> <br>
-> <br>
-> Additional background information, stories, or myths associated with the character. This can include relationships with other characters, significant events they've been involved in, and their place within Gensokyo.
+> Ran Yakumo is a powerful nine-tailed fox youkai and the shikigami of Yukari Yakumo, one of the most enigmatic and influential figures in Gensokyo. As a shikigami, Ran is bound to serve Yukari, managing many of her affairs during Yukari's frequent slumbers. This includes maintaining barriers, gathering information, and occasionally intervening in incidents that threaten the balance of Gensokyo.
+> She was formerly a resident of the Animal Realm, presumably being one of the many spirits inhabiting it. At one point, disgusted by the beastly ideology that pervaded the place, she fled to Gensokyo. It is unknown when Ran met Yukari and became her shikigami.
+> Ran's relationship with her own shikigami, Chen, showcases her nurturing side. She acts as a mentor and caretaker, teaching Chen and guiding her development.
+> Throughout Gensokyo, Ran is known for her intelligence and effectiveness. However, some may view her as distant or unapproachable due to her serious demeanor and focus on duty. She occasionally interacts with key figures like Reimu Hakurei and Marisa Kirisame, especially when incidents arise that require her attention.
 
 ### **Adventure Hooks**
-- Ideas on how this character could be integrated into a campaign or adventure.
-
+Since she often carries out various chores from Yukari, she can basically be everywhere that players can encounter if related to the balance of Gensokyo. Is it possible that she lends help to the party if necessary or fighting players in extreme circumstances, but most likely a Danmaku duel rather than actual battle.
 
 > ##### Author's Notes
-> Any additional notes from the author or compiler of the bestiary entry, such as design considerations or references.
-
+> Ran is a very typical "mommy" character among Touhou community, acting as a maternal figure between Yukari and Chen, but with a mysterious background aligns with Yukari's. After the release of UDOALG where she became a playable character, revealing her relation with Yuuma Toutetsu and in Strange Creators of Outer World mentioned the fact that she's a spirit possessing a nine-tail fox, adds more layers to her character and more questions to answer. Nevertheless, since her behavior is always consistent in both canon and the majority of fanon, it's safe to say that the Ran we see is still the complete character of the good fox everyone recognizes.
 

@@ -116,10 +116,7 @@ Description of how the character behaves in combat, including preferred strategi
 
 
 > ## Lore
-> *"A notable quote from the character that exemplifies their personality or role."*
-> <br>
-> <br>
-> Additional background information, stories, or myths associated with the character. This can include relationships with other characters, significant events they've been involved in, and their place within Gensokyo.
+> Additional background information, stories, or myths associated with the character. This can include relationships with other characters, significant events they've been involved in, and their place within Gensokyo. Only include references from official works, or widely accepted fanon as possible.
 
 ### **Adventure Hooks**
 - Ideas on how this character could be integrated into a campaign or adventure.
