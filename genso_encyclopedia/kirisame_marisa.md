@@ -1,0 +1,123 @@
+# Kirisame Marisa
+Character description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Kirisame Marisa
+*Medium humanoid (human), chaotic good*
+
+- **Armor Class** 18
+- **Hit Points** 212 (10d18 + 32)
+- **Speed:** 30 ft. land, 50 ft. flying (hover)
+- **Proficiency:** +6
+
+### Ability Scores
+<br><br>
+___
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 11 (+0) | 20 (+5) | 17 (+3) | 22 (+6) | 18 (+4) | 17 (+3) |
+
+___
+<br>
+
+- **Saving Throws**
+    - Dexterity +11, Constitution +9, Intelligence +12, Wisdom +10, Charisma +9
+- **Skills**
+    -  Arcana +18, Deception +9, History +12, Insight +10, Investigation +18, Medicine +10, Perception +10, Sleight of Hand +11, Stealth +11, Survival +10
+- **Senses**
+    - Darkvision 60 ft.
+    - Passive Perception 20
+- **Languages**
+    - Common, Youkai
+- **Challenge** 18 (20,000 XP)
+
+### Traits
+
+***Trait Name.*** Description of the trait, including any game mechanics, effects, and conditions.
+
+\page
+
+### Actions
+
+***Action Name.*** Description of the action, including attack rolls, damage, and effects.
+
+
+### Reactions
+
+***Reaction Name.*** Description of the reaction and when it can be used.
+
+
+### **Legendary Actions**
+
+**[Character Name]** can take **X** legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn.
+
+- ***Legendary Action Name.*** Description of the legendary action.
+
+
+### Spellcasting
+[Character Name]'s spellcasting ability is **Intelligence (spell save DC XX, +X to hit with spell attacks)**, with the following spells prepared:
+
+- **Cantrips: (infinite use)**
+    - Prestidigitation
+    - Mage Hand
+- **1st level (4 slots):**
+    - Magic Missile
+    - Shield
+- **2nd level (3 slots):**
+    - Mirror Image
+    - Acid Arrow
+- **3nd level (3 slots):**
+    - Fireball
+    - Haste
+- **4nd level (3 slots):**
+    - Stoneskin
+    - Dimension Door
+- **5nd level (3 slots):**
+    - Mislead
+    - Cone of Cold
+- **6nd level (2 slots):**
+    - Chain lightning
+    - Globe of Invulnerability
+- **7nd level (2 slots):**
+    - Teleport
+    - Delayed Blast Fireball
+- **8nd level (1 slots):**
+    - Maze
+    - Feeblemind
+- **9nd level (1 slots):**
+    - Wish
+    - Power Word Kill
+- **Epic level (1 slots):**
+    - Hellball
+    - Dragon Knight
+
+
+### Equipment
+
+- **Item Name.** *Description of the item and its effects.*
+    - ***Item Features.*** If any
+
+\page
+
+> ### Roleplaying Notes
+> - **Personality Traits:** *Brief notes on the character's personality.*
+> - **Ideals:** *What drives the character?*
+> - **Bonds:** *Connections to other characters, places, or events.*
+> - **Flaws:** *Character weaknesses or vulnerabilities.*
+
+
+### Tactics
+Description of how the character behaves in combat, including preferred strategies, common tactics, and any special considerations.
+
+
+> ## Lore
+> Additional background information, stories, or myths associated with the character. This can include relationships with other characters, significant events they've been involved in, and their place within Gensokyo. Only include references from official works, or widely accepted fanon as possible.
+
+### **Adventure Hooks**
+- Ideas on how this character could be integrated into a campaign or adventure.
+
+
+> ##### Author's Notes
+> Any additional notes from the author or compiler of the bestiary entry, such as design considerations or references.
+
+

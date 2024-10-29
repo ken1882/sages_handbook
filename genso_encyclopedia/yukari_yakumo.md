@@ -1,6 +1,8 @@
 # Yukari Yakumo
 Yukari Yakumo is a legendary youkai who is able to manipulate boundaries. She is the master of Ran Yakumo. She is called the "gap youkai", although "gap youkai" is not the name of a species, as she is more of a one-of-a-kind type of youkai. Regardless of her power, Yukari appears to be the most well-informed being in Gensokyo of any kind and usually achieves her goals through manipulating events rather than direct combat.
 
+Alias: Mastermind Behind the Spiriting Away, Border of Phantasm, Youkai that lurks in the boundary, Youkai of Boundaries, Border of Fantasy, Uncanny Smile, Phantasmal Foxes' Wedding, Sunshower of Fantasy, Youkai Who Comes and Goes As She Pleases, Gatekeeper of Gensokyo, Elusive and Two-Faced Youkai, Border of Investigator and Instigator, Gensokyo's Fixer.
+
 ### Yukari Yakumo
 *Medium Aberration (youkai), chaotic neutral*
 
@@ -200,7 +202,7 @@ If the component is destroyed or dispelled by the Disjunction, all creatures ins
 To craft the component, following materials from various location must be used:
 - 1 pound of high quality sand without impurities.
 - 10 pounds of imperial jade from Youkai Mountain and filled with beasts spiritual power.
-- 3 vials (6 ounces) of sacred water blessed by a miko with unparalleled exorcism power, each vial is capable of dealing no less than 99 hit points of radiant damage on average roll when applied to evil being. (for instance, average roll of 10d18 is (1+10)/2*18=99)
+- 3 vials (6 ounces) of sacred water blessed by a miko with unparalleled exorcism power, each vial is capable of dealing no less than 50 hit points of radiant damage on average roll when applied to evil being. (for instance, average roll of 10d10 is (1+10)/2*10=55)
 - 50 feet of silk thread imbued with the essence of the moon and longevity.
 - 5 pounds of infernal bloodstone formed by agglomerate the residue from boiling the bloods of evils repetitively.
 - 1 stellar feather of Yatagarasu.
@@ -228,7 +230,7 @@ You collapses the boundaries between dimensions, creating a singularity black ho
 Once the singularity is created, all creatures and objects within its radius are affected by its gravitational pull. Creatures must make progressively harder saving throws the closer they are to the singularity, listed as follows:
 
 - ***Within 100 ft.:***
-All creatures and objects within 100 feet must make a DC 30 Strength saving throw at the start of each of their round or be pulled 50 feet toward the center and take 20d12 force damage. On a success, they are not pulled but still take half damage. If pulled into the center, they are instantly crushed and reducing to atoms, cannot be resurrected without divine intervention. All movement speed are reduced to one tenth, teleportation unconditionally fails.
+All creatures and objects within 100 feet must make a DC 30 Strength saving throw at the start of each of their round or be pulled 50 feet toward the center and take 20d12 force damage. On a success, they are not pulled but still take half damage. If pulled into the center, they are instantly crushed and reducing to atoms, cannot be resurrected without spell of 10th-level or above. All movement speed are reduced to one tenth, teleportation unconditionally fails.
 
 - ***101-300 ft.:***
 All creatures and objects must make a DC 25 Strength saving throw at the start of each of their rounds or be pulled 30 feet toward the center and take 10d12 force damage. On a success, they are not pulled but still take half damage. All movement speed are halved, teleportation unconditionally fails.
@@ -277,7 +279,7 @@ You can specify the area and duration for the effects, greater area and longer d
 | 1 year | 1 day | 6 days | 1 month | 3 months | 7 years |
 | Permanent | 1 week | 1 month | 1 year | 10 years | 1000 years |
 
-Once upon the ritual starts, deities related to the rules you written immediately notices your casting attempt.
+As soon as the ritual begins, the deities linked to the rules you have written instantly notice your casting attempt to disrupt their authority.
 
 \page
 

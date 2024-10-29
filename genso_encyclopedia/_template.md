@@ -7,6 +7,7 @@ Character description goes here. Lorem ipsum dolor sit amet, consectetur adipisc
 - **Armor Class** 20
 - **Hit Points** 101 (10d10 + 1)
 - **Speed:** 30 ft. land, 30 ft. flying (hover)
+- **Proficiency:** +5
 
 ### Ability Scores
 <br><br>
@@ -31,7 +32,7 @@ ___
     - If any
 - **Senses**
     - Darkvision 60 ft.
-    - Passive Perception 30 ft.
+    - Passive Perception 15
 - **Languages**
     - Languages known
 - **Challenge** 10 (5,900 XP)
