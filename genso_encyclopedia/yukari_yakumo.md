@@ -7,7 +7,7 @@ Alias: Mastermind Behind the Spiriting Away, Border of Phantasm, Youkai that lur
 *Medium Aberration (youkai), chaotic neutral*
 
 - **Armor Class** 27
-- **Hit Points** 1,020 (20d100+200)
+- **Hit Points** 1,020
 - **Speed:** 25 ft. land, 30 ft. flying (hover)
 - **Proficiency:** +10
 
@@ -90,7 +90,7 @@ Yukari flings Ran or Chen up to 60 ft., allowing them to immediately make a mult
 
 - ***Empower Shikigami:*** All shikigamis serving Yukari within 120 ft. of her have their own *Shikigami Possession* feature activated, if any. The effect lasts for 1 hour or until Yukari dismisses it (no action required).
 
-### **Legendary Actions**
+### Legendary Actions
 Yukari can take **3** legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's round. Yukari regains spent legendary actions at the start of her round.
 - ***Move:*** Yukari moves up to her speed without provoking opportunity attacks.
 - ***Manipulate Boundaries (Cost 2 Actions):*** Yukari shifts the boundaries of reality, teleporting herself or one willing creature within 120 ft. to another point within 120 ft. This does not provoke opportunity attacks.
@@ -283,6 +283,11 @@ As soon as the ritual begins, the deities linked to the rules you have written i
 
 \page
 
+### Tactics
+In combat, Yukari rarely engages directly unless necessary. She prefers to manipulate the battlefield using her mastery over boundaries, or summon her shikigami fight for her. If a direct conflict is inevitable, she'll propose a Danmaku duel rather than bloodshed. In any case she needs to demonstrate her power, Yukari approaches combat with a calm demeanor, always appearing one step ahead. She views battles as a game of chess, strategically positioning herself and others to achieve victory with minimal effort.
+
+\page
+
 ## Danmaku Battle
 *Describe character's damanku pattern, attacks, attributes etc.*
 
@@ -291,26 +296,22 @@ As soon as the ritual begins, the deities linked to the rules you have written i
 
 \page
 
-> ### Roleplaying Notes
-> - **Personality Traits:** Yukari Yakumo is enigmatic and whimsical, often appearing aloof or detached. She enjoys teasing and manipulating others for her own amusement, but beneath her playful exterior lies a keen intellect and deep wisdom. She is highly observant, strategic, and has a penchant for meddling in events from the shadows.
-> - **Ideals:** Yukari is driven by the desire to maintain balance and stability within Gensokyo. She values the preservation of boundaries between realms, concepts, and even life and death. Her actions are often guided by a long-term vision for the well-being of Gensokyo, even if her methods seem inscrutable to others.
-> - **Bonds:** She shares a close bond with her shikigami, Ran Yakumo. Through Ran, she is also connected to Chen, Ran's own shikigami. Yukari has complex relationships with other powerful beings in Gensokyo, such as Yuyuko Saigyouji and Miko of Hakurei.
-> - **Flaws:** Her enigmatic nature can lead to misunderstandings, causing others to distrust her motives. Yukari's tendency to manipulate situations without informing those involved can create unintended consequences. Also, since she spents most of her time sleeping, her source of information and errands relies heavily on her shikigami.
+### Roleplaying Notes
+- **Personality Traits:** Yukari Yakumo is enigmatic and whimsical, often appearing aloof or detached. She enjoys teasing and manipulating others for her own amusement, but beneath her playful exterior lies a keen intellect and deep wisdom. She is highly observant, strategic, and has a penchant for meddling in events from the shadows.
+- **Ideals:** Yukari is driven by the desire to maintain balance and stability within Gensokyo. She values the preservation of boundaries between realms, concepts, and even life and death. Her actions are often guided by a long-term vision for the well-being of Gensokyo, even if her methods seem inscrutable to others.
+- **Bonds:** She shares a close bond with her shikigami, Ran Yakumo. Through Ran, she is also connected to Chen, Ran's own shikigami. Yukari has complex relationships with other powerful beings in Gensokyo, such as Yuyuko Saigyouji and Miko of Hakurei.
+- **Flaws:** Her enigmatic nature can lead to misunderstandings, causing others to distrust her motives. Yukari's tendency to manipulate situations without informing those involved can create unintended consequences. Also, since she spents most of her time sleeping, her source of information and errands relies heavily on her shikigami.
 
+## Lore
+Yukari Yakumo, despite often claiming she's age 17, is one of the oldest and most powerful youkai in Gensokyo, known as the Gap Youkai. She possesses the ability to manipulate boundaries, but this ability is rarely seen used other than for opening gaps to teleport around Gensokyo and fixing the barrier. Still, this mysterious power and her extraordinary wisdom make her a key figure in maintaining the balance and isolation of Gensokyo from the outside world.
 
-### Tactics
-In combat, Yukari rarely engages directly unless necessary. She prefers to manipulate the battlefield using her mastery over boundaries, or summon her shikigami fight for her. If a direct conflict is inevitable, she'll propose a Danmaku duel rather than bloodshed. In any case she needs to demonstrate her power, Yukari approaches combat with a calm demeanor, always appearing one step ahead. She views battles as a game of chess, strategically positioning herself and others to achieve victory with minimal effort.
+Yukari played a crucial role in the creation of the Great Hakurei Barrier, which separates Gensokyo from the outside world. This event is often seen as the origin of Gensokyo, and those involved are called the Sages of Gensokyo. She often spends long periods sleeping, leaving the management of day-to-day affairs to her shikigami, Ran. Despite her apparent laziness, she is highly influential and keeps a watchful eye on the incidents that could threaten the stability of Gensokyo.
 
-> ## Lore
-> Yukari Yakumo, despite often claiming she's age 17, is one of the oldest and most powerful youkai in Gensokyo, known as the Gap Youkai. She possesses the ability to manipulate boundaries, but this ability is rarely seen used other than for opening gaps to teleport around Gensokyo and fixing the barrier. Still, this mysterious power and her extraordinary wisdom make her a key figure in maintaining the balance and isolation of Gensokyo from the outside world.
-> <br>
-> Yukari played a crucial role in the creation of the Great Hakurei Barrier, which separates Gensokyo from the outside world. This event is often seen as the origin of Gensokyo, and those involved are called the Sages of Gensokyo. She often spends long periods sleeping, leaving the management of day-to-day affairs to her shikigami, Ran. Despite her apparent laziness, she is highly influential and keeps a watchful eye on the incidents that could threaten the stability of Gensokyo.
-> <br>
-> She enjoys mentoring and challenging younger youkai and humans alike, sometimes acting as an antagonist to spur growth in others. Yukari's true intentions are rarely clear, and she often operates behind the scenes, nudging events in directions that serve her inscrutable purposes.
-> <br>
-> Her interactions with other characters are complex. Two of her most notable backstories are that she seems to know the secret of the Saigyou Ayakashi and Yuyuko Saigyouji, and that she started two Lunar Wars against the Lunarians. But her true intentions perhaps only lie in the deepest parts of the gap that is accessible only by Yukari herself.
+She enjoys mentoring and challenging younger youkai and humans alike, sometimes acting as an antagonist to spur growth in others. Yukari's true intentions are rarely clear, and she often operates behind the scenes, nudging events in directions that serve her inscrutable purposes.
 
-### **Adventure Hooks**
+Her interactions with other characters are complex. Two of her most notable backstories are that she seems to know the secret of the Saigyou Ayakashi and Yuyuko Saigyouji, and that she started two Lunar Wars against the Lunarians. But her true intentions perhaps only lie in the deepest parts of the gap that is accessible only by Yukari herself.
+
+### Adventure Hooks
 In a campaign or adventure, she is very likely the mastermind behind the scenes, manipulating the progression of events. Unless you're replaying the second Lunar War, which she goes on the expedition herself, which is very rare and perhaps the only one she risks herself to win the game.
 
 > ##### Author's Notes

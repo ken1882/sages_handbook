@@ -53,7 +53,7 @@ ___
 ***Reaction Name.*** Description of the reaction and when it can be used.
 
 
-### **Legendary Actions**
+### Legendary Actions
 
 **[Character Name]** can take **X** legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn.
 
@@ -103,23 +103,32 @@ ___
 - **Item Name.** *Description of the item and its effects.*
     - ***Item Features.*** If any
 
-\page
-
-> ### Roleplaying Notes
-> - **Personality Traits:** *Brief notes on the character's personality.*
-> - **Ideals:** *What drives the character?*
-> - **Bonds:** *Connections to other characters, places, or events.*
-> - **Flaws:** *Character weaknesses or vulnerabilities.*
-
-
 ### Tactics
 Description of how the character behaves in combat, including preferred strategies, common tactics, and any special considerations.
 
 
-> ## Lore
-> Additional background information, stories, or myths associated with the character. This can include relationships with other characters, significant events they've been involved in, and their place within Gensokyo. Only include references from official works, or widely accepted fanon as possible.
+\page
 
-### **Adventure Hooks**
+## Danmaku Battle
+*Describe character's damanku pattern, attacks, attributes etc.*
+
+### Spell Cards
+*List of spell cards character can use, and details*
+
+\page
+
+### Roleplaying Notes
+- **Personality Traits:** *Brief notes on the character's personality.*
+- **Ideals:** *What drives the character?*
+- **Bonds:** *Connections to other characters, places, or events.*
+- **Flaws:** *Character weaknesses or vulnerabilities.*
+
+
+## Lore
+Additional background information, stories, or myths associated with the character. This can include relationships with other characters, significant events they've been involved in, and their place within Gensokyo. Only include references from official works, or widely accepted fanon as possible.
+
+
+### Adventure Hooks
 - Ideas on how this character could be integrated into a campaign or adventure.
 
 

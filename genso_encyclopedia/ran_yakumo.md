@@ -10,7 +10,7 @@ Alias: Shikigami of the Gap Youkai, Unusual Animal, Nine-Tailed Tactician, Wishf
 *Medium beast (Fox beast youkai), lawful good*
 
 - **Armor Class** 24
-- **Hit Points** 909 (20d20+699)
+- **Hit Points** 896
 - **Speed:** 40 ft. land, 60 ft. flying (hover)
 - **Proficiency:** +9
 
@@ -84,12 +84,37 @@ The legendary nine-tailed foxes are known for their enchanting beauty and cunnin
 
     Creatures with an Intelligence score of 6 or lower or those who cannot be charmed are immune to these effects.
 
+    Ran can only uses this ability in her humanoid form.
+
 - ***Shikigami Possession:***
 As powerful as Ran is, she is ultimately subservient to a more powerful master, Yukari Yakumo, and can be lent some of her master's power when required. If Yukari is on the same plane as Ran, she can empower Ran as a bonus action. Whilst empowered this way, Ran gains +3 to her AC, +4 to her spell attack rolls, +4 to her spell save DC, an additional 6th, 7th, 8th and 9th level spell slot. She may use *Shikigami - Protection of Zenki and Goki*. She automatically rerolls all damage dice that are below average.
 
+- ***Untamed Wildness:*** When a beast youkai is in imminent risk of its life, it can no longer maintains its humanoid form. When Ran's hit points are below one tenth, she immediately transforms into her original fox form if she yet to use the ability, and only restores half of her hit points instead full.
+
+- ***Fox Form:***
+Being a legendary none-tailed fox, Ran can use an action to transform herself between her humanoid form and fox form. She can only transform into her fox form once per day. Upon she's in her fox form, she immediately restores all hit points, and has following stats changed:
+> ***Ran Yakumo (Fox Form)***<br>
+> *Large beast (Nine-tailed Fox), lawful good*
+> <br>
+> - ***AC:*** 26
+> - ***HP:*** 940
+> - ***Speed:*** 60 ft. land, 60 ft. flying (hover)
+> - STR 26 (+8) DEX 24 (+7) CON 24 (+7),
+> INT 22 (+6) WIS 22 (+6) CHA 21 (+5)
+> - ***Saving Throws:*** Strength +17, Dexterity + 16, Constitution +16, Intelligence +15, Wisdom +15
+> - ***Skills:*** Athletics +19, Animal Handling +15, Arcana +15, Intimidation +14, Deception +14, Insight +15, Investigation +15, Nature +15, Perception +15, Stealth +16, Acrobatics +16
+> - ***Damage Immunities:*** Non-magical slashing, piercing and bludgeoning, Force, Fire, Poison, Psychic
+> - ***Condition Immunities:*** Exhausted, Frightened, Stunned, Charmed, Poisoned
+
+\page
+
 ### Actions
 
-- ***Claw:*** Melee weapon attack. +11 to hit, 2d8+5 slashing damage, 3d6 fire damage.
+- ***Multiattack:*** Ran can attack three times with her Malefic Claw, or two Grudge Bite in one round.
+
+- ***Malefic Claw:*** Melee weapon attack. +17 to hit, 2d8+5 slashing damage, Ran can empower this attack with foxfire, turning it into magical slashing damage and inflicting additional 2d6 fire damage. In her fox form, this attack has +20 to hit and 2d10+8 slashing damage, foxfire has additional 3d6 fire damage.
+
+- ***Grudge Bite:*** Melee weapon attack, only usable in fox form. +17 to hit, 3d8+6 piercing damage, Ran can empower this attack with foxfire, turning it into magical piercing damage and inflicting additional 2d8 fire damage. And restoring half of the damage dealt to her hit points.
 
 - ***Shikigami - Chen:*** Ran summons Chen to a point within 120 ft. of herself. She may then have Chen be immediately empowered and activate her *Shikigami Possession* feature.
 
@@ -122,11 +147,11 @@ As powerful as Ran is, she is ultimately subservient to a more powerful master, 
 
 \page
 
-### **Legendary Actions**
+### Legendary Actions
 Ran Yakumo can take **3** legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn.
 - ***Nine-Tailed Sorcery***: Ran casts a spell of up to 9th-level that has a casting time of 1 action as if casting in her round, casting spells with level 1~4 costs 1 action, 5~7 costs 2 actions, and 8~9 costs 3 actions.
 - ***Tail Bind:*** Ran uses her magical tails to bind a creature she can see within 30 feet. She can spend 1 or more legendary actions up to 3 to perform this action. The target must make a Strength saving throw against DC of 18/22/28 depending on the legendary actions spent. On a failed save, the target becomes grappled and restrained by Ran's tails. While restrained, the target takes 2d6/2d8/2d10 bludgeoning damage at the start of its round. To maintaining the bind, Ran's maximum legendary actions per round are reduced by the number that she used to perform the bind, she regains these actions when the bind ends. She may change number of legendary actions used to bind the target at start of her round (no action cost), the DC and damage are changed align with the changes. The restrained creature can use its action to attempt breaking free by repeating the saving throw. She can use this action on one creature at a time.
-- ***Tail Wallop:*** Ran makes a melee weapon attack using one of her tails against a target within 15 feet. She can spend additional legendary actions to strengthen the attack. This melee attack has +16/+18/+20 to hit and 2d8/3d8/4d8 bludgeoning damage, and the target must succeed on a Strength saving throw with DC 16/18/20, or be knocked prone.
+- ***Tail Wallop:*** Ran makes a melee weapon attack using her tails against targets within 15 feet cone. She can spend additional legendary actions to strengthen the attack. This melee attack has +16/+18/+20 to hit and 2d8/3d8/4d8 bludgeoning damage, and the target must succeed on a Strength saving throw with DC 16/18/20, or be knocked prone.
 - ***Tail Shield:*** Ran wraps her tails around herself or an ally within 5 feet, granting a +1 bonus to AC for each legendary action spent up to 3 until the start of her next round. This action can be used only once per round.
 
 ### Spellcasting
@@ -136,17 +161,11 @@ She may cast spells of 5th level and below at will, as if using up to a 5th leve
 
 For higher level spells, she has the following number of spell slots:
 
-- **6nd level (3 slots):**
-- **7nd level (3 slots):**
-- **8nd level (2 slots):**
-- **9nd level (1 slots):**
+- **6nd level (4 slots):**
+- **7nd level (4 slots):**
+- **8nd level (3 slots):**
+- **9nd level (2 slots):**
 
-
-> ### Roleplaying Notes
-> - **Personality Traits:** Ran Yakumo is diligent and highly intelligent, often appearing serious and composed. She values efficiency and order, diligently performing her duties as Yukari Yakumo's shikigami. Ran is polite and respectful, especially towards her master and those she deems worthy of respect. Despite her stern exterior, she cares deeply for her own shikigami, Chen, and can show a nurturing side.
-> - **Ideals:** Ran is driven by loyalty and a strong sense of responsibility. She believes in fulfilling her duties to the best of her ability and upholding the balance and harmony of Gensokyo.
-> - **Bonds:** Her primary bond is with Yukari Yakumo, whom she serves faithfully. Ran also shares a maternal relationship with her own shikigami, Chen, guiding and protecting her. She interacts with other youkai and humans as part of her responsibilities, forming connections based on mutual respect and duty.
-> - **Flaws:** Ran can be overly serious and may neglect her own well-being in the pursuit of her duties. Additionally, she sometimes forgets her position as a servant and acts on her own volition, which may lead to consequences Yukari does not expect.
 
 ### Tactics
 While Ran prefers to resolve conflicts without violence, it's a different story if someone insists on interfering with her duties. In combat, Ran Yakumo utilizes her vast magical abilities and intelligence to outmaneuver opponents. She analyzes her enemies and exploits their weaknesses, often starting with spells that hinder or control the battlefield. With her nine-tailed casting ability and wide array of spells she knows, she can handle any foe encountered with flexible tactics. When working alongside other teammates, Ran coordinates attacks and covers each other's weaknesses. She can empower her allies or debilitate enemies to shift the battle in her favor. Based on the flow of combat, she may retreat or reposition to avoid unnecessary risks, preferring calculated actions over impulsive moves.
@@ -161,13 +180,20 @@ While Ran prefers to resolve conflicts without violence, it's a different story 
 
 \page
 
-> ## Lore
-> Ran Yakumo is a powerful nine-tailed fox youkai and the shikigami of Yukari Yakumo, one of the most enigmatic and influential figures in Gensokyo. As a shikigami, Ran is bound to serve Yukari, managing many of her affairs during Yukari's frequent slumbers. This includes maintaining barriers, gathering information, and occasionally intervening in incidents that threaten the balance of Gensokyo.
-> She was formerly a resident of the Animal Realm, presumably being one of the many spirits inhabiting it. At one point, disgusted by the beastly ideology that pervaded the place, she fled to Gensokyo. It is unknown when Ran met Yukari and became her shikigami.
-> Ran's relationship with her own shikigami, Chen, showcases her nurturing side. She acts as a mentor and caretaker, teaching Chen and guiding her development.
-> Throughout Gensokyo, Ran is known for her intelligence and effectiveness. However, some may view her as distant or unapproachable due to her serious demeanor and focus on duty. She occasionally interacts with key figures like Reimu Hakurei and Marisa Kirisame, especially when incidents arise that require her attention.
 
-### **Adventure Hooks**
+### Roleplaying Notes
+- **Personality Traits:** Ran Yakumo is diligent and highly intelligent, often appearing serious and composed. She values efficiency and order, diligently performing her duties as Yukari Yakumo's shikigami. Ran is polite and respectful, especially towards her master and those she deems worthy of respect. Despite her stern exterior, she cares deeply for her own shikigami, Chen, and can show a nurturing side.
+- **Ideals:** Ran is driven by loyalty and a strong sense of responsibility. She believes in fulfilling her duties to the best of her ability and upholding the balance and harmony of Gensokyo.
+- **Bonds:** Her primary bond is with Yukari Yakumo, whom she serves faithfully. Ran also shares a maternal relationship with her own shikigami, Chen, guiding and protecting her. She interacts with other youkai and humans as part of her responsibilities, forming connections based on mutual respect and duty.
+- **Flaws:** Ran can be overly serious and may neglect her own well-being in the pursuit of her duties. Additionally, she sometimes forgets her position as a servant and acts on her own volition, which may lead to consequences Yukari does not expect.
+
+## Lore
+Ran Yakumo is a powerful nine-tailed fox youkai and the shikigami of Yukari Yakumo, one of the most enigmatic and influential figures in Gensokyo. As a shikigami, Ran is bound to serve Yukari, managing many of her affairs during Yukari's frequent slumbers. This includes maintaining barriers, gathering information, and occasionally intervening in incidents that threaten the balance of Gensokyo.
+She was formerly a resident of the Animal Realm, presumably being one of the many spirits inhabiting it. At one point, disgusted by the beastly ideology that pervaded the place, she fled to Gensokyo. It is unknown when Ran met Yukari and became her shikigami.
+Ran's relationship with her own shikigami, Chen, showcases her nurturing side. She acts as a mentor and caretaker, teaching Chen and guiding her development.
+Throughout Gensokyo, Ran is known for her intelligence and effectiveness. However, some may view her as distant or unapproachable due to her serious demeanor and focus on duty. She occasionally interacts with key figures like Reimu Hakurei and Marisa Kirisame, especially when incidents arise that require her attention.
+
+### Adventure Hooks
 Since she often carries out various chores from Yukari, she can basically be everywhere that players can encounter if related to the balance of Gensokyo. Is it possible that she lends help to the party if necessary or fighting players in extreme circumstances, but most likely a Danmaku duel rather than actual battle.
 
 > ##### Author's Notes
