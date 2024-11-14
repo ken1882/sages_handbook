@@ -125,7 +125,7 @@ Yukari is an omnipotent caster with level of 29, her spellcasting ability is **I
 
 **Duration:** Up to 1 minute
 
-You create a barrier of magical protection around yourself. Every spell directly cast at you is absorbed by spell trap – making you recall a previously cast spell of up to that level. The incoming spell has no other effect on you. Spell trap can absorb any spell up to 9th level.
+You create a barrier of magical protection around yourself. Every spell directly cast at you is absorbed by spell trap - making you recall a previously cast spell of up to that level. The incoming spell has no other effect on you. Spell trap can absorb any spell up to 9th level.
 
 Spell trap absorbs a total of 1 spell level per your caster level, before ending. The protection spell trap provides is absolute: having 1 level remaining of this protection means a 1st level or a 9th level spell is be absorbed, though the spell slot you regain matches only the spell levels remaining of spell trap.
 
@@ -166,7 +166,7 @@ You momentarily alters the laws of reality in a 500-ft. cube around you, changin
 1. Gravity Shift: The creature must take a DC 26 Strength saving throw or be thrown in a random direction, taking 10d10 force damage and becoming stunned for next 2 rounds.
 2. Temporal Displacement: The creature must take a DC 26 Dexterity saving throw or is trapped in a temporal anomaly, disappearing from the timeline for 1d6 rounds, reappearing where they were.
 3. Spatial Warp: The creature must take a DC 26 Dexterity saving throw is teleported to a random location within 1 mile, suffering 10d10 psychic damage due to disorientation.
-4. Distorted Time: The creature must take a DC 26 Intelligence saving throw or is slowed, freedom of movement does not save target from the effect.
+4. Distorted Time: The creature must take a DC 26 Intelligence saving throw or be slowed, freedom of movement does not save target from the effect since it was slowed by time factors.
 
 The spell effect persists even the caster leaves the area, leaving the place completely chaotic scattered aftermath.
 
@@ -177,13 +177,15 @@ The spell effect persists even the caster leaves the area, leaving the place com
 
 **Range:** See text
 
-**Components:** V, S
+**Components:** V, S, M (See text)
 
 **Duration:** See text
 
-You manipulates the boundary between life and death. Causing one effect of your choosing:
-1. Targeting up to 5 creatures within 100 ft. and forces target to make a Constitution saving throw. On a failed save, the creature is shifted to the boundary of death, becoming unable to heal or be resurrected for the duration of 1 minute. Any healing effects applied to the creature fail. At the end of each of its round, the creature takes 8d12 necrotic damage. If the creature is reduced to 0 hit points while affected by this spell, it cannot be revived by any means short of a Wish spell.
-2. You shift the boundary of life, reversing the soul of a fallen creature back to its body. As long as the target's demise is within 3 days, you can cast this spell to undo its death, returning it to the moment before it was killed, fully restored to life with all hit points. The creature's death and any associated events, such as disease or curse, are erased from time, as if they never occurred. After choosing this effect, you cannot use this spell again for 7 days.
+You manipulate the boundary between life and death. Causing one effect of your choosing:
+1. As an action, you target up to 5 creatures within 100 ft. and force them to make a Constitution saving throw against your spell DC. On a failed save, the creature's destiny is shifted to the boundary of death, becoming unable to heal or be resurrected for the duration of 10 minutes. Any healing effects applied to the creature fail. At the end of each of its rounds, the creature takes 8d6 necrotic damage. If the creature is reduced to 0 hit points while affected by this spell, its soul is bound to the boundary of death and cannot be revived by any means short of a Wish spell cast with a 10th-level slot.
+2. When you recognize a creature's hit points reach 0, you can cast this spell as a reaction to undo its death by shifting the boundary of life and death, returning it to the moment before it was killed, fully restored to life with all hit points. The creature's death and any associated events, such as its wounds, poison, diseases, and curses, are fully erased from time, as if they never occurred.
+3. You consume a petal from Saigyou Ayakashi's cherry blossom tree and open up the boundaries to search for a creature's soul - either fallen or alive. If the creature is dead, you restore it to life as per the True Resurrection spell, even if the soul is unwilling, trapped, or destroyed. If the creature is alive but its soul or body is trapped, you forcibly retrieve the soul or body, reuniting them at a location you choose within 100 feet of you. This effect cross planes and bypasses any barriers, wards, or spells that prevent resurrection or retrieval, including spells like imprisonment or trap the soul. The creature is restored to full health, and any conditions preventing its return are nullified, and ignores the normal limitations of resurrection spells, such as time since death or the condition of its soul or body. The casting time of this effect is 1 minute, then you must stay concentration to search for your target, for every minute, you trace back 1 year since the creature's demise or expand the spell's scan radius by 1,000 kilometers or cross into another plane of existence, the spell is wasted if you didn't manage to find the target within a day.
+
 
 #### Boundary of Space and Time
 *11th level Conjuration*
@@ -210,7 +212,7 @@ To craft the component, following materials from various location must be used:
 - 10 plants of Untainted Lotus.
 - 4 gallons of underground water from Forest of Magic.
 - 8 pounds of cotton, grew in Garden of the Sun and fertilized with bonemeal made from creatures has average DC above 10.
-- Crafting process *pages after are torn down*
+- Crafting process unknown
 
 \page
 

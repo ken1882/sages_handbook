@@ -148,7 +148,25 @@ Marisa's spellcasting ability is **Intelligence (spell save DC 22, +14 to hit wi
 
 **Duration:** Instantaneous
 
-One of Marisa's favorable opening spell, she quickly creates and shooting magical projectiles with shape of stars to a direction she chooses rapidly, creatures within the cone area must take a Dexterity Saving throw or inflicted with 6d6 force damage, a successful check halves the damage.
+One of Marisa's favorable opening spell, she quickly creates and rapidly shooting magical projectiles with shape of stars to a direction she chooses, creatures within the cone area must take a Dexterity Saving throw of DC 14 or inflicted with 6d6 force damage, a successful check halves the damage.
+
+#### Light Blast "Shoot the Moon"
+*5th level Evocation*
+
+**Casting Time:** 1 action
+
+**Range:** 150 feet
+
+**Components:** V, S, M (Magical mushrooms)
+
+**Duration:** Instantaneous
+
+You channel arcane energy into the ground, erupting powerful beams of radiant light from below to the sky. Choose a point within range. From that point, beams of light shoot upward in a 30-foot-radius area, each one 10 feet wide. Each creature within this area must make a Dexterity saving throw. On a failed save, a creature takes 4d6 radiant damage and 4d6 force damage and is knocked 15 feet into the air by the force of the ascending light, when the spell ends and having no countermeasures such as flying or slow falling, the creature takes fall damage and falling prone until start of its next round. On a successful save, the creature takes half as much damage and is not knocked into the air.
+
+The ascending beams scorch the ground and leave shimmering trails of light that linger momentarily, illuminating the surrounding 60 feet in bright light and an additional 60 feet in dim light.
+
+At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, both radiant and force damage increases by 1d6 for each slot level above 5th.
+
 
 
 \page
