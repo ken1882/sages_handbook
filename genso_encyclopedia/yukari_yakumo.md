@@ -159,7 +159,7 @@ You counterspell an opponent's spell or spell-like ability before it is even cas
 
 **Duration:** 1 hour
 
-You momentarily alters the laws of reality in a 500-ft. cube around you, changing the environment, warping terrain, and altering natural laws. Gravity may shift, time may slow down or speed up, or objects within the area may be teleported randomly. Any teleportation attempt besides you made in the area must take a spell check in order to proceed. Creatures in the area subjected to one of the following effects according to their d4 roll each minute as long as they're still inside the area of effect:
+Yukari momentarily alters the laws of reality in a 500-ft. cube around her, changing the environment, warping terrain, and altering natural laws. Gravity may shift, time may slow down or speed up, or objects within the area may be teleported randomly. Any teleportation attempt without Yukari's permission in the area must take a spell check in order to proceed. Creatures in the area subjected to one of the following effects according to their d4 roll each minute as long as they're still inside the area of effect:
 
 \page
 
@@ -181,10 +181,10 @@ The spell effect persists even the caster leaves the area, leaving the place com
 
 **Duration:** See text
 
-You manipulate the boundary between life and death. Causing one effect of your choosing:
-1. As an action, you target up to 5 creatures within 100 ft. and force them to make a Constitution saving throw against your spell DC. On a failed save, the creature's destiny is shifted to the boundary of death, becoming unable to heal or be resurrected for the duration of 10 minutes. Any healing effects applied to the creature fail. At the end of each of its rounds, the creature takes 8d6 necrotic damage. If the creature is reduced to 0 hit points while affected by this spell, its soul is bound to the boundary of death and cannot be revived by any means short of a Wish spell cast with a 10th-level slot.
-2. When you recognize a creature's hit points reach 0, you can cast this spell as a reaction to undo its death by shifting the boundary of life and death, returning it to the moment before it was killed, fully restored to life with all hit points. The creature's death and any associated events, such as its wounds, poison, diseases, and curses, are fully erased from time, as if they never occurred.
-3. You consume a petal from Saigyou Ayakashi's cherry blossom tree and open up the boundaries to search for a creature's soul - either fallen or alive. If the creature is dead, you restore it to life as per the True Resurrection spell, even if the soul is unwilling, trapped, or destroyed. If the creature is alive but its soul or body is trapped, you forcibly retrieve the soul or body, reuniting them at a location you choose within 100 feet of you. This effect cross planes and bypasses any barriers, wards, or spells that prevent resurrection or retrieval, including spells like imprisonment or trap the soul. The creature is restored to full health, and any conditions preventing its return are nullified, and ignores the normal limitations of resurrection spells, such as time since death or the condition of its soul or body. The casting time of this effect is 1 minute, then you must stay concentration to search for your target, for every minute, you trace back 1 year since the creature's demise or expand the spell's scan radius by 1,000 kilometers or cross into another plane of existence, the spell is wasted if you didn't manage to find the target within a day.
+Yukari manipulate the boundary between life and death. Causing one effect of her choosing:
+1. As an action, she target up to 5 creatures within 100 ft. and force them to make a Constitution saving throw. On a failed save, the creature's destiny is shifted to the boundary of death, becoming unable to heal or be resurrected for the duration of 10 minutes. Any healing effects applied to the creature fail. At the end of each of its rounds, the creature takes 8d6 necrotic damage. If the creature is reduced to 0 hit points while affected by this spell, its soul is bound to the boundary of death and cannot be revived by any means short of a Wish spell cast with a 10th-level slot.
+2. When she recognize a creature's hit points reach 0, she can cast this spell as a reaction to undo its death by shifting the boundary of life and death, returning it to the moment before it was killed, fully restored to life with all hit points. The creature's death and any associated events, such as its wounds, poison, diseases, and curses, are fully erased from time, as if they never occurred.
+3. Yukari consume a petal from Saigyou Ayakashi's cherry blossom tree and open up the boundaries to search for a creature's soul - either fallen or alive. If the creature is dead, Yukari restores it to life as per the True Resurrection spell, even if the soul is unwilling, trapped, or destroyed. If the creature is alive but its soul or body is trapped, she forcibly retrieve the soul or body, reuniting them at a location her choice within 100 feet of her. This effect cross planes and bypasses any barriers, wards, or spells that prevent resurrection or retrieval, including spells like imprisonment or trap the soul. The creature is restored to full health, and any conditions preventing its return are nullified, and ignores the normal limitations of resurrection spells, such as time since death or the condition of its soul or body. The casting time of this effect is 1 minute, then she must stay concentration to search for the target, for every minute, she can trace back 10 year since the creature's demise or expand the spell's scan radius by 1,000 kilometers or cross into another plane of existence, the spell is wasted if she didn't manage to find the target within a day.
 
 
 #### Boundary of Space and Time
@@ -198,7 +198,7 @@ You manipulate the boundary between life and death. Causing one effect of your c
 
 **Duration:** Until dispelled
 
-You opens a gap into the magical map that have drawn, a plane of existence that reflects the boundaries of the world within the artist's creation. This map can take the form of a sprawling city, uncanny landscapes, dangerous labyrinth, or any other scenery one can imagine. All creatures within maximum of 1-mile radius are teleported into this dimension unless they succeed on an Wisdom saving throw. While inside, creatures can only move in this domain, a reflection of the creator's will existing as a pocket dimension, isolated from the rest of the multiverse, and time seems to flow differently, for each hour that passes inside, only 1 minute passes outside. Creatures within are trapped indefinitely, Divination spells can't locate or perceive the target. Nothing can pass through the boundary, nor can any creature teleport or use planar travel to get into or out of it. To leave the dimension, a dispel magic spell can save the victim only if it is cast as a 9th-level spell, targeting a creature inside and close to (25 ft. + 5 ft. per 2 caster level) the special component used to create it. Or the caster cast the spell with same component again opening the boundary.
+Yukari opens a gap into the magical map that have drawn, a plane of existence that reflects the boundaries of the world within the artist's creation. This map can take the form of a sprawling city, uncanny landscapes, dangerous labyrinth, or any other scenery one can imagine. All creatures within maximum of 1-mile radius are teleported into this dimension unless they succeed on an Wisdom saving throw. While inside, creatures can only move in this domain, a reflection of the creator's will existing as a pocket dimension, isolated from the rest of the multiverse, and time seems to flow differently, for each hour that passes inside, only 1 minute passes outside. Creatures within are trapped indefinitely, Divination spells can't locate or perceive the target. Nothing can pass through the boundary, nor can any creature teleport or use planar travel to get into or out of it. To leave the dimension, a dispel magic spell can save the victim only if it is cast as a 9th-level spell, targeting a creature inside and close to (25 ft. + 5 ft. per 2 caster level) the special component used to create it. Or the caster cast the spell with same component again opening the boundary.
 If the component is destroyed or dispelled by the Disjunction, all creatures inside immediately free from the dimension.
 
 To craft the component, following materials from various location must be used:
@@ -227,7 +227,7 @@ To craft the component, following materials from various location must be used:
 
 **Duration:** Concentration, up to 10 minutes
 
-You collapses the boundaries between dimensions, creating a singularity black hole that pulls everything toward it and warps space-time itself. The black hole manifests at a point within range of your choosing and the closer creatures or objects are to it, the more violently they are affected by its pull. The singularity grows over time, threatening to consume anything near it.
+Yukari collapses the boundaries between dimensions, creating a singularity black hole that pulls everything toward it and warps space-time itself. The black hole manifests at a point within range of she choosing and the closer creatures or objects are to it, the more violently they are affected by its pull. The singularity grows over time, threatening to consume anything near it.
 
 Once the singularity is created, all creatures and objects within its radius are affected by its gravitational pull. Creatures must make progressively harder saving throws the closer they are to the singularity, listed as follows:
 
@@ -245,9 +245,9 @@ All creatures and objects must make a DC 15 Strength saving throw at the start o
 
 After each round, the black hole's pull grows stronger, expands the size of affected area by 100 feet (starting at 1 ft.) and reaches maximum radius of 1000 feet after 10 rounds, creatures within 500 feet must make another DC 20 Wisdom saving throw every round or suffer from space-time distortion, causing them to be randomly displaced by 2d10 feet in any direction and experiencing time dilation, losing their action for the round.
 
-You can end the spell at will, causing the singularity to collapse into nothingness. However, if the singularity is allowed to remain for the full duration, it may become unstable and expand uncontrollably, leading to catastrophic consequences.
+Yukari can end the spell at will, causing the singularity to collapse into nothingness. However, if the singularity is allowed to remain for the full duration, it may become unstable and expand uncontrollably, leading to catastrophic consequences.
 
-While casting this spell, you're completely immune to its effects.
+While casting this spell, she's completely immune to its effects.
 
 
 ### Boundary of Realities (Ritual)
@@ -261,7 +261,7 @@ While casting this spell, you're completely immune to its effects.
 
 **Duration:** See text
 
-You briefly rewrites the rules of reality in your immediate vicinity. You alter the fundamental laws of physics and magic inside your plane of existence. You can choose up to three effects, such as:
+Yukari briefly rewrites the rules of reality in her immediate vicinity. She alters the fundamental laws of physics and magic inside her plane of existence. She can choose up to three effects, such as:
 
 - Gravity is reversed, allowing creatures to walk on walls or ceilings.
 - Magic becomes unstable, causing all spells cast within the area to require a DC 20 spellcasting check or fail.
@@ -270,7 +270,7 @@ You briefly rewrites the rules of reality in your immediate vicinity. You alter 
 - Blur the boundaries between planes, allowing creatures to be partially in one plane and another, causing unpredictable effects.
 - Objects and creatures in the area may randomly teleport short distances, making movement unreliable.
 
-You can specify the area and duration for the effects, greater area and longer duration requires longer casting time according to the following table, multiply the time required to the number of effects will be the final casting time:
+The caster can specify the area and duration for the effects, greater area and longer duration requires longer casting time according to the following table, multiply the time required to the number of effects will be the final casting time:
 
 | Dur./AOE | ~100ft. | 101~500 ft. | 501~1000 ft. | 1000~3000 ft. | Current Plane |
 | -------- | ------- | ----------- | ------------ | ------------- | ------------- |
@@ -281,7 +281,7 @@ You can specify the area and duration for the effects, greater area and longer d
 | 1 year | 1 day | 6 days | 1 month | 3 months | 7 years |
 | Permanent | 1 week | 1 month | 1 year | 10 years | 1000 years |
 
-As soon as the ritual begins, the deities linked to the rules you have written instantly notice your casting attempt to disrupt their authority.
+As soon as the ritual begins, the deities linked to the rules that have written instantly notice the casting attempt to disrupt their authority.
 
 \page
 
